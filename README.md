@@ -71,5 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Age-Calculator1
-Calculates age and suggest some products based on age
->>>>>>> b1f68b32b3dbc25511b59b8297c39e95fd8d465e
+
+=======
+Calculates age and suggest some products based on age.and display products
+>>>>>>> b1d2e08db7eea158b1f2e82f6ef7d748abd14fb7
