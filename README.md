@@ -74,4 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 =======
 Calculates age and suggest some products based on age.and display products
->>>>>>> b1d2e08db7eea158b1f2e82f6ef7d748abd14fb7
+
