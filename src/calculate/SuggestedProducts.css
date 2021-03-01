@@ -1,0 +1,17 @@
+.list{
+    border: 2px solid black;
+    width:30%;
+    padding: 10px 10px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    
+    
+
+}
+.products{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(221, 17, 17);
+}
